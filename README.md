@@ -1,3 +1,11 @@
+# Esclusione di Responsabilità
+
+L’applicazione utilizza i dati forniti da Arpae per monitorare il livello idrometrico dei fiumi e inviare notifiche agli utenti quando il livello supera una determinata soglia. Tuttavia, i dati e le notifiche forniti dall’app non devono essere considerati come informazioni ufficiali o sostitutive delle comunicazioni provenienti dalle autorità competenti.
+
+Non mi assumo alcuna responsabilità per eventuali imprecisioni, ritardi o errori nei dati forniti dall’app. Gli utenti sono invitati a fare riferimento alle comunicazioni ufficiali delle autorità competenti, come Arpae, per informazioni accurate e tempestive sulla situazione idrometrica e climatica.
+
+Si consiglia di prendere tutte le precauzioni necessarie in caso di eventi di elevata criticità, seguendo sempre le direttive ufficiali.
+
 # Privacy Policy
 
 La tua privacy è importante. Questa Privacy Policy spiega come vengono raccolte, utilizzate, memorizzate e protette le tue informazioni personali all’interno dell'app.
