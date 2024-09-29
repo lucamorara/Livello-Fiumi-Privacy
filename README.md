@@ -1,10 +1,16 @@
-# Esclusione di Responsabilità
+# Responsabilità
 
-L’applicazione utilizza i dati forniti da Arpae per monitorare il livello idrometrico dei fiumi e inviare notifiche agli utenti quando il livello supera una determinata soglia. Tuttavia, i dati e le notifiche forniti dall’app non devono essere considerati come informazioni ufficiali o sostitutive delle comunicazioni provenienti dalle autorità competenti.
+## Esclusione di Responsabilità
 
-Non mi assumo alcuna responsabilità per eventuali imprecisioni, ritardi o errori nei dati forniti dall’app. Gli utenti sono invitati a fare riferimento alle comunicazioni ufficiali delle autorità competenti, come Arpae, per informazioni accurate e tempestive sulla situazione idrometrica e climatica.
+L’applicazione utilizza i dati forniti da Arpae per monitorare i livelli idrometrici dei fiumi e inviare notifiche agli utenti quando il livello supera una determinata soglia. Tuttavia, i dati forniti dall’app non devono essere considerati come informazioni ufficiali o sostitutive delle comunicazioni delle autorità competenti.
 
-Si consiglia di prendere tutte le precauzioni necessarie in caso di eventi di elevata criticità, seguendo sempre le direttive ufficiali.
+## Limitazione di Responsabilità
+
+L’app è fornita “così com’è” e non fornisce alcuna garanzia, esplicita o implicita, riguardo all’accuratezza, completezza, tempestività o adeguatezza dei dati forniti. Gli utenti utilizzano l’app e i suoi servizi a proprio rischio. In nessun caso l’autore dell’app sarà ritenuto responsabile per danni diretti, indiretti, incidentali, speciali o consequenziali derivanti dall’uso o dall’impossibilità di usare l’app, dai dati o dalle notifiche ricevute.
+
+## Manleva
+
+Gli utenti sono invitati a fare riferimento esclusivamente alle comunicazioni ufficiali delle autorità competenti, come Arpae, per informazioni accurate e tempestive sulla situazione idrometrica. L’app non si assume alcuna responsabilità per eventuali imprecisioni, ritardi, errori nei dati forniti o per l’interpretazione errata delle informazioni ricevute. L’autore dell’app non sarà responsabile per eventuali danni, perdite o infortuni che potrebbero derivare dall’affidamento sui dati o dalle azioni intraprese in base a queste informazioni.
 
 # Privacy Policy
 
